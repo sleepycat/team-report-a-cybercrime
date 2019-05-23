@@ -8,13 +8,11 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <h1>Cybercrime</h1>
+    <p>
+      This is a team site for the work of the Report a cybercrime team. Work and
+      research will be posted here as we go as a record of our findings.
+    </p>
   </Layout>
 )
 
